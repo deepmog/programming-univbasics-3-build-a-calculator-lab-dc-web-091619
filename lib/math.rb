@@ -14,11 +14,11 @@ return quotient
 end
 
 def multiplication(num1, num2)
-
+ solution = num1 * num2
 end
 
 def modulo(num1, num2)
-
+root =
 end
 
 def square_root(num)
