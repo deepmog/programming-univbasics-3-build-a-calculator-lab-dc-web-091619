@@ -15,10 +15,11 @@ end
 
 def multiplication(num1, num2)
  solution = num1 * num2
+ return solution
 end
 
 def modulo(num1, num2)
-root =
+
 end
 
 def square_root(num)
